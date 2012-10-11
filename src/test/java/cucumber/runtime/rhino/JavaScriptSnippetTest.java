@@ -1,4 +1,4 @@
-package cucumber.runtime.javascript;
+package cucumber.runtime.rhino;
 
 import cucumber.runtime.snippets.SnippetGenerator;
 import gherkin.formatter.model.Comment;
