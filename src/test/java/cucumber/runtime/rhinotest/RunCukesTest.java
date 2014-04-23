@@ -1,4 +1,4 @@
-package cucumber.runtime.rhino;
+package cucumber.runtime.rhinotest;
 
 import org.junit.runner.RunWith;
 
